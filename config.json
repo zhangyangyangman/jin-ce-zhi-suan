@@ -42,7 +42,7 @@
     "source": "tdx",
     "enable_fallback": false,
     "tushare_api_url": "http://tushare.xyz",
-    "tushare_token": "c0bdf36090986951fde348cc471f9130ebca9d3530eb5b3ebb98b8bd",
+    "tushare_token": "c4807bea75a73662da04de52b908afeb34a9570e3518428a8fe5a2b8",
     "default_api_key": "",
     "default_api_url": "",
     "mysql_host": "192.168.18.62",
